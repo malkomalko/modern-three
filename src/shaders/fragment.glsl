@@ -1,6 +1,6 @@
 varying vec2 vUv;
 
-void main() 
+void main()
 {
-    gl_FragColor = vec4(vUv, 0.5, 1.0);
+  gl_FragColor = vec4(vUv, 0.5, 1.0);
 }

@@ -14,12 +14,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alvarosabu/modern-three.git"
+    "url": "git+https://github.com/malkomalko/modern-three.git"
   },
   "bugs": {
-    "url": "https://github.com/alvarosabu/modern-three/issues"
+    "url": "https://github.com/malkomalko/modern-three/issues"
   },
-  "homepage": "https://github.com/alvarosabu/modern-three#readme",
+  "homepage": "https://github.com/malkomalko/modern-three#readme",
   "contributors": [
     "Alvaro <hola@alvarosaburido.dev>"
   ],

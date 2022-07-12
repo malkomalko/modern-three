@@ -71,16 +71,11 @@ let prevElapsedTime = 0
 
 const loop = () => {
   const elapsedTime = clock.getElapsedTime()
-
   prevElapsedTime = elapsedTime
-
   sphereMaterial.uniforms.uTime.value = elapsedTime
-
   fpsGraph.begin()
-
   controls.update()
   renderer.render(scene, camera)
-
   fpsGraph.end()
   requestAnimationFrame(loop)
 }
